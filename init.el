@@ -1,4 +1,3 @@
+;;; custom setting
 
-;; Custom key
-
-(global-set-key (kbd "TAB") 'dabbrev-expand)
+(set-face-attribute 'default nil :height 250)
